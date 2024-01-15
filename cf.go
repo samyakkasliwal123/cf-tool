@@ -8,14 +8,14 @@ import (
 	"github.com/fatih/color"
 	ansi "github.com/k0kubun/go-ansi"
 	"github.com/mitchellh/go-homedir"
-	"github.com/xalanq/cf-tool/client"
-	"github.com/xalanq/cf-tool/cmd"
-	"github.com/xalanq/cf-tool/config"
+	"github.com/ashish-bazad/cf-tool/client"
+	"github.com/ashish-bazad/cf-tool/cmd"
+	"github.com/ashish-bazad/cf-tool/config"
 
 	docopt "github.com/docopt/docopt-go"
 )
 
-const version = "v1.0.0"
+const version = "v1.0.1"
 const configPath = "~/.cf/config"
 const sessionPath = "~/.cf/session"
 
@@ -63,7 +63,7 @@ Examples:
   cf submit            cf will detect what you want to submit automatically.
   cf submit -f a.cpp
   cf submit https://codeforces.com/contest/100/A
-  cf submit -f a.cpp 100A 
+  cf submit -f a.cpp 100A
   cf submit -f a.cpp 100 a
   cf submit contest 100 a
   cf submit gym 100001 a
