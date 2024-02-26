@@ -41,8 +41,8 @@ Then enjoy the cf-tool~
 Or you can compile it from the source **(go >= 1.12)**:
 
 ```plain
-$ go get github.com/xalanq/cf-tool
-$ cd $GOPATH/src/github.com/xalanq/cf-tool
+$ go get github.com/ashish-bazad/cf-tool
+$ cd $GOPATH/src/github.com/ashish-bazad/cf-tool
 $ go build -ldflags "-s -w" cf.go
 ```
 
