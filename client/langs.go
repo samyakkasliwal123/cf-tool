@@ -61,7 +61,7 @@ var LangsExt = map[string]string{
 	"GNU C++11":             "cpp",
 	"GNU C++14":             "cpp",
 	"GNU C++17":             "cpp",
-	"GNU G++20":             "cpp",
+	"GNU C++20":             "cpp",
 	"MS C++":                "cpp",
 	"MS C++ 2017":           "cpp",
 	"Mono C#":               "cs",
