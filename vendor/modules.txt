@@ -4,13 +4,6 @@ github.com/PuerkitoBio/goquery
 # github.com/andybalholm/cascadia v1.0.0
 ## explicit
 github.com/andybalholm/cascadia
-# github.com/ashish-bazad/cf-tool v0.0.0-20240115055641-23669e1a5a87
-## explicit
-github.com/ashish-bazad/cf-tool/client
-github.com/ashish-bazad/cf-tool/cmd
-github.com/ashish-bazad/cf-tool/config
-github.com/ashish-bazad/cf-tool/cookiejar
-github.com/ashish-bazad/cf-tool/util
 # github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815
 ## explicit
 github.com/docopt/docopt-go

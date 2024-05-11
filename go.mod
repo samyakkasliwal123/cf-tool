@@ -1,10 +1,9 @@
-module cf-tool
+module github.com/ashish-bazad/cf-tool
 
 go 1.21.6
 
 require (
 	github.com/PuerkitoBio/goquery v1.5.0
-	github.com/ashish-bazad/cf-tool v0.0.0-20240115055641-23669e1a5a87
 	github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815
 	github.com/fatih/color v1.7.0
 	github.com/k0kubun/go-ansi v0.0.0-20180517002512-3bf9e2903213
